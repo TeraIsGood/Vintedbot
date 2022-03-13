@@ -1,0 +1,40 @@
+{
+    "token": "OTQ5MDYwNDIyNTc5OTM3MzQw.YiE3ZQ.H_DQBhsEutiss5rNhDfplKJueJU",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://www.vinted.fr/vetements?search_text=nike&status[]=6&status[]=1&status[]=2&price_to=100&currency=EUR&brand_id[]=53&size_id[]=209&order=newest_first": {
+            "channel": 951867862253985835
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=jordan%201&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&price_to=200&status[]=6&status[]=1&status[]=2&status[]=3": {
+            "channel": 952570454328090706
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=jordan%202&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&price_to=200&status[]=6&status[]=1&status[]=2&status[]=3": {
+            "channel": 952570659085615114
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=jordan%203&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&price_to=200&status[]=6&status[]=1&status[]=2&status[]=3": {
+            "channel": 952570682775076915
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=jordan%204&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&price_to=200&status[]=6&status[]=1&status[]=2&status[]=3": {
+            "channel": 952570697434165268
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=jordan%206&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&price_to=200&status[]=6&status[]=1&status[]=2&status[]=3": {
+            "channel": 952570743491797012
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=Jordan%20x%20Off-White&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&status[]=6&status[]=1&status[]=2&status[]=3&price_from=90": {
+            "channel": 952574978925142107
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=dunk%20nike&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&status[]=6&status[]=1&status[]=2&status[]=3&price_from=90": {
+            "channel": 952576215397589012
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&brand_id[]=53&catalog[]=1242&search_text=air%20jordan%205&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&status[]=6&status[]=1&status[]=2&status[]=3&price_from=90": {
+            "channel": 952570717847842866
+        },
+        "https://www.vinted.fr/vetements?currency=EUR&order=newest_first&catalog[]=1242&search_text=Dior&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&status[]=6&status[]=1&status[]=2&status[]=3&brand_id[]=671&price_to=400": {
+            "channel": 952577650533216316
+        },
+        "https://www.vinted.fr/vetements?search_text=off%20white&brand_id[]=2131149&order=newest_first&catalog[]=1242&size_id[]=776&size_id[]=778&size_id[]=780&size_id[]=782&size_id[]=784&size_id[]=785&size_id[]=786&size_id[]=787&size_id[]=788&size_id[]=789&size_id[]=790&size_id[]=791&size_id[]=792&size_id[]=794&size_id[]=1190&size_id[]=1191&status[]=6&status[]=1&status[]=2&status[]=3": {
+            "channel": 952579880745324597
+        }
+    }
+}
